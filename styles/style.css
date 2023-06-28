@@ -22,6 +22,9 @@ margin-top: 100px;}
     width: 350px;
     height: 50px;
 }
+.dashboard{
+        width: 600px;
+    height: 400px;}
 .submit{
     border-radius: 25px;
     background-color:blue;
